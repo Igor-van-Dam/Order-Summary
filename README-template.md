@@ -14,9 +14,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]('./images/Screenshot.png')
+![screenshot]((https://github.com/order-summary-component-main/images/Screenshot.png)
 
 ### Links
 
@@ -46,9 +44,8 @@ Users should be able to:
 
 ### What I learned
 
-1. The use of <main>
+1. The use of main tag
 2. Recaped and learned CSS properties such as:
-
 - background-image: url('./images/pattern-background-desktop.svg')
 - background-size: contain;
 - background-repeat: no-repeat;
