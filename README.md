@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](https://github.com/order-summary-component-main/images/Screenshot.png)
+![screenshot](images/Screenshot.png)
 
 ### Links
 
